@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/alvinntnu/python-notes/blob/master/nlp/ktrain-tutorial-explaining-predictions.ipynb#scrollTo=Zn5jcoXOOKXT
