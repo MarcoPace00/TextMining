@@ -1,0 +1,10 @@
+- clean datasplit file and format
+- clean model 1 file and format
+- normalize classes??
+
+
+- batch and epoch choice justification
+
+how to export/import model so as to avoid retraining!!!
+
+Create output notebook
