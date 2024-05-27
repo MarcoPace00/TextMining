@@ -1,0 +1,9 @@
+- Drop ticker with no recent news 
+- Dataset balancing 
+- Merging Datasets from different dates
+
+
+
+- Controllare input e target manualmente 
+- DIVISIONE training - validation - test
+- TEST AND MODEL VALUATION FRAMEWORK
