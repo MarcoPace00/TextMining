@@ -1,4 +1,9 @@
+Predictions explaination
 https://colab.research.google.com/github/alvinntnu/python-notes/blob/master/nlp/ktrain-tutorial-explaining-predictions.ipynb#scrollTo=Zn5jcoXOOKXT
+
+Tabular classification framework
+https://www.kaggle.com/code/redwankarimsony/classifying-tabular-data
+
 
 
 https://www.kaggle.com/code/kerneler/text-classification-with-movie-reviews-nnlm-en
