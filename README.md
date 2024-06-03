@@ -1,3 +1,3 @@
 Machine learning group project.
 
-See the notebook "out" in the "output" folder for all the details
+See the notebook "out" in the "Group output" folder for all the details
